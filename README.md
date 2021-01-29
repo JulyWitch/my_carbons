@@ -8,7 +8,7 @@
 خب اول درخت فایل ها رو ببینین
 
 
-![](https://raw.githubusercontent.com/JulyWitch/my_carbons/main/carbon(18).png)
+![](https://raw.githubusercontent.com/JulyWitch/my_carbons/main/carbon(19).png)
 
 assets:
 
